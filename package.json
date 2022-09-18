@@ -2,6 +2,7 @@
   "name": "multiplayer-web-game-ably-starter-kit",
   "version": "1.0.0",
   "description": "This repository contains a starter template for building any realtime multiplayer game on the web with Ably using the client/server architecture. This project uses vanilla JS on the client-side and NodeJS on the server-side",
+  "engines": { "node": "16.0.0" },
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
